@@ -1,7 +1,7 @@
 USE burgers_db;
 
 INSERT INTO burgers (burger_name, devoured)
-    VALUES("angus", false);
+VALUES("angus", false);
 
 INSERT INTO burgers (burger_name, devoured)
 VALUES("cheddar bacon", false);
